@@ -1,9 +1,12 @@
-import Form from "@/components/Form"
+import Todo from "../component/Todo";
+import styles from "../styles/Home.module.css";
 
-const index = () => {
+export default function Home() {
   return (
-    <><Form/></>
-  )
+    <>
+      <main className={styles.main}>
+        <Todo />
+      </main>
+    </>
+  );
 }
-
-export default index
