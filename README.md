@@ -16,7 +16,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 
 
-# ----------------------------------- Requirement -----------------------------------
+# ------------------ Requirement --------------------
 
 # Challenge
 You're tasked with building a web application that allows users to create and manage tasks. The application should have the following features:
